@@ -13,4 +13,4 @@ The process flow is:
 
 
 ### Basic Flow Diagram
-![Alt](/images/BasicFlow.png "Qlik Proactive Email Notification Basic Flow")
+![Alt](/BasicFlow.png "Qlik Proactive Email Notification Basic Flow")
