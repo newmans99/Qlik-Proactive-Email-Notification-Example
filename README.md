@@ -12,4 +12,5 @@ The process flow is:
 5. User recieves email, with subject, message (including variable values) and links back to the Core App (Dashboards, Sheets, and Selections can be included).
 
 
-
+### Basic Flow Diagram
+![Alt](/images/BasicFlow.png "Qlik Proactive Email Notification Basic Flow")
